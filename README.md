@@ -5,7 +5,7 @@ This tutorial will use Python 2 (for no particular reason).
 Make sure you have Python 2 and pip installed.
 ```
 pip --version
-python --version
+python --version # or python2 --version
 ```
  
 Install virtualenv
@@ -33,3 +33,5 @@ Open a new jupyter notebook
 ```
 jupyter notebook
 ```
+
+And you are ready!
