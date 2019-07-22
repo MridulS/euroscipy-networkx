@@ -1,3 +1,5 @@
+# Check https://github.com/MridulS/pydata-networkx for the latest version.
+
 This tutorial will use Python 2 (for no particular reason).
 
 ### Set up
